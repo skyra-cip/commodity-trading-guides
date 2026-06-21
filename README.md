@@ -25,8 +25,8 @@ Professional guides on commodity trading, trade finance, bunker fuels, EN590 die
 
 SKYRA is a global commodity intelligence and trading platform connecting verified buyers, sellers, mandates, brokers, and suppliers.
 
-🌐 https://skyra.com.hk
-🌐 https://www.linkedin.com/company/skyra-cip/
+Website :🌐 https://skyra.com.hk
+Linkedin:🌐 https://www.linkedin.com/company/skyra-cip/
 
 ## Disclaimer
 
