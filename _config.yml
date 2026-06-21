@@ -1,0 +1,46 @@
+theme: jekyll-theme-slate
+title: Commodity Trading Guides
+description: Professional guides on commodity trading, trade finance, bunker fuels, EN590 diesel, Jet A1 fuel, LNG, precious metals and international trade procedures.
+url: https://skyra-cip.github.io/commodity-trading-guides
+repository: skyra-cip/commodity-trading-guides
+github:
+  is_project_page: true
+  is_user_page: false
+
+# SEO Settings
+lang: en
+locale: en_US
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Additional SEO metadata
+google_site_verification: ""
+author:
+  name: SKYRA CIP
+  email: info@skyra.com.hk
+  url: https://skyra.com.hk
+
+# Feed settings
+feed:
+  path: feed.xml
+
+# Site settings
+show_downloads: true
+show_fork_ribbon: true
+fork_button_class: fork-me-on-github
+
+# Social settings
+social:
+  name: SKYRA CIP
+  links:
+    - https://www.linkedin.com/company/skyra-cip/
+    - https://skyra.com.hk
+    - https://github.com/skyra-cip/commodity-trading-guides
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /guides/:name
